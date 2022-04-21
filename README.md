@@ -1,6 +1,8 @@
 # Data-Visualisation-using-Python-Pandas/Seaborn-
 
-Python visualisation assignment for python-pandas-seaborn. Given tbe following list of tasks to complete: 
+# Please click jupyter notebook file above to see my solution. 
+
+Python visualisation assignment for python-pandas-seaborn in business intelligence module NUIG. Given the following list of tasks to complete: 
 
 # 1. Read the superstore.csv file into a data frame.
 
